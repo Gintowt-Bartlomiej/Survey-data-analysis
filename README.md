@@ -1,7 +1,7 @@
 # Survey-data-analysis
 
 ## Autor:
-  Bartłomiej Gintowth
+  Bartłomiej Gintowt
   
 ## Krótki opis projektu:
   Analiza i interpretacja danych ankietowych przy pomocy języka R.
